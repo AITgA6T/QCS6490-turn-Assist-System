@@ -1,4 +1,4 @@
-# QCS6490-turn-Assist-System
+# Qualcomm QCS6490 turn Assist System
 
 ## Advantages of QCS6490
 
