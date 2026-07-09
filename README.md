@@ -39,7 +39,7 @@ The system detects pedestrians through a depth camera, processes image enhanceme
 
 It issues visual and audio alerts to warn users based on different risk levels.
 
-![Architecture Diagram](assets/architecture.png)
+![Architecture Diagram](assets/architecture.png) 
 
 ## Demo
 https://github.com/user-attachments/assets/c60baba9-6a29-4c27-882b-00358ec26f4f
